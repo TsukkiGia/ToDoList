@@ -26,17 +26,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Understanding recyclerviews and how to instantiate my own adapter was particulary challenging, since it had a lot of new classes and methods.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
